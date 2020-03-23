@@ -1,0 +1,19 @@
+It's best practice to create contribution guidelines which could include:
+
+1. Steps for creating good issues or pull requests
+  - so far it's just two of us so I think we can talk about this
+  
+2. Links to external documentation, mailing lists, or a code of conduct
+
+ - https://help.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors
+ 
+ - "Before adopting a code of conduct for your project:
+      - Research different codes of conduct designed for open source projects. Choose one that reflects your community's standards.
+      - Consider carefully whether you are willing and able to enforce it."
+      
+3. Community and behavioral expectations
+  - Jameson, questions for you, is this an open source project?
+  - Do you plan to have more people contribute to it?
+  - Which things may be similar to this, already exist?
+  
+
